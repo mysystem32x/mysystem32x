@@ -66,8 +66,33 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysystem32x&bg_color=000000&color=9e0830&line=9e0830&point=ffffff&area=true&area_color=9e0830&border=9e0830&radius=8" width="100%" alt="Activity Graph"/>
   </a>
 </div>
+<!-- Дополнительные виджеты -->
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mysystem32x)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Виджет с цитатой -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
+  <br><br>
+
+  <!-- Счетчик посещений -->
+  <img src="https://komarev.com/ghpvc/?username=mysystem32x&color=9e0830&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+  <br><br>
+
+  <!-- Статистика в одну строку -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mysystem32x&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=9e0830&text_color=ffffff&icon_color=9e0830" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysystem32x&layout=compact&hide_border=true&bg_color=000000&title_color=9e0830&text_color=ffffff" height="170"/>
+
+  <br><br>
+
+  <!-- Достижения -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mysystem32x&theme=darkhub&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title_color=9e0830"/>
+
+  <br><br>
+
+  <!-- Метрики (альтернатива снэку) -->
+  <img src="https://metrics.lecoq.io/mysystem32x?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBishkek" width="100%"/>
+
+</div>
 ---
 
