@@ -16,8 +16,7 @@
   <a href="https://discord.com/rhytm7"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
 </div>
 
-***
----
+<img src="https://via.placeholder.com/900x4/9e0830/9e0830?text=+" width="100%">
 
 <br clear="both">
 
