@@ -4,7 +4,6 @@
   <img height="287" src="https://i.pinimg.com/originals/06/d8/5d/06d85dfe641057ec9462c0bc6b092aa6.gif"  />
 </div>
 
-
 <h5 align="center">🔗 Connect with me </></h5>
 
 <div align="center">
@@ -16,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="23" alt="discord logo"  />
   </a>
 </div>
-<hr size="10">
+<hr size="5">
 
 <br clear="both">
 
