@@ -8,7 +8,6 @@
 
 <h5 align="center">🔗 Connect with me</h5>
 
-
 <div align="center">
   <a href="https://t.me/rhytm7"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
   <a href="https://instagram.com/openai"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
@@ -20,7 +19,6 @@
 <br clear="both">
 
 <h3 align="center">About Me</h3>
-
 
 <p align="center">I'm Muhammad, a Python Developer with over 2 years of experience in Backend and Data Science. I have a proven track record of creating projects from scratch, developing them from simple MVPs into refined, robust applications.</p>
 
