@@ -15,12 +15,12 @@ I like building projects from scratch and turning them into stable and scalable 
 <a href="https://t.me/rhytm7">
 <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF2E97"/>
 </a>
-
-<a href="https://discord.com/rhytm7">
+<a href="https://discord.com/users/rhytm7">
 <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF2E97"/>
 </a>
-
+<a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2E97"/>
+</a>
 </p>
 
 <br>
