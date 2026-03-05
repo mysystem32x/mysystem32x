@@ -23,7 +23,6 @@
 ---
 
 <br clear="both">
-
 <h3 align="center">About Me</h3>
 
 <p align="center">I'm Muhammad, a Python Developer with over 2 years of experience in Backend and Data Science. I have a proven track record of creating projects from scratch, developing them from simple MVPs into refined, robust applications.</p>
