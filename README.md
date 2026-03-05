@@ -3,7 +3,7 @@
 <div align="center">
   <img height="287" src="https://i.pinimg.com/originals/06/d8/5d/06d85dfe641057ec9462c0bc6b092aa6.gif"  />
 </div>
-
+<hr>
 ###
 
 <h5 align="center">🔗 Connect with me </></h5>
