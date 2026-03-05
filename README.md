@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%pink&lines=My+System+32+presents.)](https://git.io/typing-svg)
 
 <br clear="both">
 
 <div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%pink&lines=My+System+32+presents.)](https://git.io/typing-svg)
   <img height="287" src="https://i.pinimg.com/originals/06/d8/5d/06d85dfe641057ec9462c0bc6b092aa6.gif"  />
 </div>
 <hr>
