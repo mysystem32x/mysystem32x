@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="168" src="https://i.pinimg.com/originals/75/37/fc/7537fcc63babf246b2ad52936e53d356.gif"  />
+  <img height="168" src="https://i.pinimg.com/originals/44/eb/17/44eb17afabc36a2df89e9bed6494587b.gif"/>
 </div>
 ###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
