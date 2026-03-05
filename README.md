@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9e0830&lines=My+System+32)](https://git.io/typing-svg)
+
 <br clear="both">
 
 <div align="center">
