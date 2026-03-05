@@ -10,6 +10,7 @@
   <a href="https://t.me/rhytm7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="23" alt="telegram logo"  />
   </a>
+  
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="23" alt="instagram logo"  />
   <a href="https://discord.com/rhytm7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="23" alt="discord logo"  />
