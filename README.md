@@ -1,103 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF2E97&size=35&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+my+profile!;%F0%9F%90%8D+MySystem32+%7C+Python+Developer;%E2%9A%A1+Bots+%2B+Web+Apps+%2B+Automation"/>
-</h1>
+# Hi 👋, I'm Selim
 
-<br>
+### Python developer
 
-<!-- ABOUT SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-ABOUT_ME-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mysystem32" alt="mysystem32" /></a> </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/d8/5d/06d85dfe641057ec9462c0bc6b092aa6.gif" width="450"/>
+- 🔭 I'm currently working on **a Telegram bot**
+
+- 🌱 I'm currently learning **Python, Docker, FastApi, aiogram3x **
+
+- 📫 How to reach me **slnho7coder@gmail.com**
+
+- 📝 I regularly write articles on **[https://t.me/kosmosdeveloper](https://t.me/kosmosdeveloper)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/mysystem32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mysystem32" height="30" width="40" /></a>
+<a href="https://discord.gg/rhytm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rhytm7" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <b>Python backend developer</b> focused on creating robust and scalable applications.<br>
-  I specialize in building <b>bots, web applications and automation tools</b> from scratch.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysystem32&show_icons=true&locale=en&layout=compact" alt="mysystem32" /></p>
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-TECH_STACK-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysystem32&show_icons=true&locale=en" alt="mysystem32" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,docker,postgres,mongodb,mysql,redis,linux,git,github,qt,bash&theme=dark&perline=7"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysystem32&" alt="mysystem32" /></p>
 
-<br>
-
-<!-- STATS SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-GITHUB_STATS-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mysystem32x&show_icons=true&bg_color=000000&title_color=FF2E97&icon_color=FF2E97&text_color=ffffff&border_color=FF2E97&hide_border=false"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysystem32x&layout=compact&bg_color=000000&title_color=FF2E97&text_color=ffffff&border_color=FF2E97&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mysystem32x&theme=dark&background=000000&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97&sideLabels=FF2E97&sideNums=ffffff&currStreakNum=ffffff&border=FF2E97"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mysystem32x&bg_color=000000&color=ffffff&line=FF2E97&point=FF2E97&area=true&hide_border=false&border_color=FF2E97&title_color=FF2E97"/>
-</p>
-
-<br>
-
-<!-- TROPHIES SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-ACHIEVEMENTS-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mysystem32x&theme=radical&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=4&border_color=FF2E97"/>
-</p>
-
-<br>
-
-<!-- CONNECT SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-CONNECT_WITH_ME-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
-
-<p align="center">
-  <a href="https://t.me/rhytm7">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FF2E97&labelColor=FF2E97&color=000000&borderColor=FF2E97"/>
-  </a>
-  <a href="https://discord.com/users/rhytm7">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF2E97&labelColor=FF2E97&color=000000&borderColor=FF2E97"/>
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2E97&labelColor=FF2E97&color=000000&borderColor=FF2E97"/>
-  </a>
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF2E97&labelColor=FF2E97&color=000000&borderColor=FF2E97"/>
-  </a>
-</p>
-
-<br>
-
-<!-- SNAKE SECTION -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-CONTRIBUTIONS-000000?style=for-the-badge&labelColor=FF2E97&color=000000"/>
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mysystem32x/mysystem32x/output/snake.svg"/>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mysystem32x&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS"/>
-</p>
-
-<p align="center">
-  <i>⚡ Keep coding, keep building ⚡</i>
-</p>
