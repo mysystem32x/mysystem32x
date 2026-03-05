@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="23" alt="discord logo"  />
   </a>
 </div>
-
+<hr size="10">
 ###
 
 <br clear="both">
