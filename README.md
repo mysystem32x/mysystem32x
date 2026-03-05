@@ -8,7 +8,6 @@
 
 <h5 align="center">🔗 Connect with me</h5>
 
----
 
 <div align="center">
   <a href="https://t.me/rhytm7"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
@@ -22,7 +21,6 @@
 
 <h3 align="center">About Me</h3>
 
----
 
 <p align="center">I'm Muhammad, a Python Developer with over 2 years of experience in Backend and Data Science. I have a proven track record of creating projects from scratch, developing them from simple MVPs into refined, robust applications.</p>
 
@@ -32,7 +30,6 @@
 
 <h3 align="center">Languages and tools</h3>
 
----
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="34" alt="python logo"  />
@@ -60,7 +57,7 @@
 
 <h3 align="center">My Stats</h3>
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mysystem32x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
