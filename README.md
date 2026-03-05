@@ -4,10 +4,8 @@
   <img height="287" src="https://i.pinimg.com/originals/06/d8/5d/06d85dfe641057ec9462c0bc6b092aa6.gif"  />
 </div>
 <hr>
-###
 
 <h5 align="center">🔗 Connect with me </></h5>
-###
 
 <div align="center">
   <a href="https://t.me/rhytm7" target="_blank">
@@ -20,26 +18,19 @@
 </div>
 <hr>
 
-###
-
 <br clear="both">
 
 <h3 align="center">About Me</h3>
 
-###
-
 <p align="center">I'm Muhammad, a Python Developer with over 2 years of experience in Backend and Data Science. I have a proven track record of creating projects from scratch, developing them from simple MVPs into refined, robust applications.</p>
 
-###
 
 <h6 align="center">· Telegram/Discord bots<br>· Web-Sites<br>· QT Apps</h6>
 
-###
 <hr>
 
 <h3 align="center">Languages and tools</h3>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="34" alt="python logo"  />
@@ -64,11 +55,8 @@
 </div>
 <hr>
 
-###
-
 <h3 align="center">My Stats</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mysystem32x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
@@ -78,4 +66,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysystem32x&radius=5&theme=dracula&area=true&order=5&hide_border=false&hide_title=true&point=pink&line=9e0830&bg_color=black&title_color=pink&area_color=black" height="295" alt="activity-graph graph"  />
 </div>
 
-###
