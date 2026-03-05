@@ -7,13 +7,15 @@
 <h5 align="center">🔗 Connect with me </></h5>
 <div align="center">
   <a href="https://t.me/rhytm7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://instagram.com/ТВОЙ_НИК" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25" alt="instagram logo" />
+  
+  <a href="https://instagram.com/твой_ник" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/>
   </a>
+  
   <a href="https://discord.com/rhytm7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/>
   </a>
 </div>
 <hr size="70">
