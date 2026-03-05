@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+sSystem+32+presents.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=9e0830&center=true&vCenter=true&lines=My+System+32+presents." alt="Typing SVG" />
+  </a>
+</p>
 
 <br clear="both">
 
