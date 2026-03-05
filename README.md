@@ -60,8 +60,14 @@
 ---
 
 <h3 align="center">My Stats</h3>
+<!-- Граф активности (розово-красный) -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysystem32x&bg_color=000000&color=9e0830&line=9e0830&point=ffffff&area=true&area_color=9e0830&border=9e0830&radius=8" width="100%" alt="Activity Graph"/>
+  </a>
+</div>
 
-
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mysystem32x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -73,9 +79,4 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-<!-- Граф активности (розово-красный) -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysystem32x&bg_color=000000&color=9e0830&line=9e0830&point=ffffff&area=true&area_color=9e0830&border=9e0830&radius=8" width="100%" alt="Activity Graph"/>
-  </a>
-</div>
+
