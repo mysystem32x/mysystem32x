@@ -10,7 +10,7 @@
   <a href="https://instagram.com/openai"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
   <a href="https://discord.com/rhytm7"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
 </div>
-<hr size="70">
+<hr style="height: 3px; background-color: #9e0830; border: none;">
 
 <br clear="both">
 
