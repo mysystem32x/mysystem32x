@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e00d38&lines=My+System+32+presents.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%pink&lines=My+System+32+presents.)](https://git.io/typing-svg)
 
 <br clear="both">
 
