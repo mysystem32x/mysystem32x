@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://t.me/rhytm7"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
   <a href="https://instagram.com/openai"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
-  <a href="https://discord.com/rhytm7"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
+  <a href="discord.com/users/742344719572533249"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=9e0830&style=for-the-badge" height="25"/></a>
 </div>
 
 ---
